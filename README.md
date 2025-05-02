@@ -1,5 +1,5 @@
 # tcp_fp_tests
-TCP JA4 fingerprint
+TCP JA4 SYN(0x02) fingerprint
 
 example: cargo run eth0 123
 
